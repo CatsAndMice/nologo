@@ -1,0 +1,13 @@
+{
+    "logo": "logo.png",
+    "main": "index.html",
+    "features": [
+        {
+            "code": "download",
+            "explain": "去水印",
+            "cmds": [
+                "去水印"
+            ]
+        }
+    ]
+}
